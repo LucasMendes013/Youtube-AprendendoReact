@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Container = styled.div `
   grid-column: 2 / 2;
-  grid-row: 2 / 2;
+  grid-row: 3 / 3;
   display: flex;  
   flex-direction: column;
   justify-content: space-evenly;
